@@ -1,0 +1,19 @@
+/*
+Author: Marcus Strander
+Contact: 'Github: Gnako' 'Email: Marcus@Strandner.se
+
+Description: A basic CSS for the index.
+*/
+
+body
+{
+	background-color:#FF0000;
+	width:100%;
+} 
+
+#container 
+{
+	border-width:1px;
+	border-style:solid;
+	border-color:#00ff00;
+}
